@@ -32,7 +32,7 @@ python fasttext.py [number_of_negative_sampling] [training_data_coverage]
 number_of_negative_sampling: Positive integer for negative sampling  
 training_data_coverage: part/full  
 
-ex) python fasttext.py SG 0 part
+ex) python fasttext.py SG 0 part  
 ex) python fasttext.py CBOW 20 full
 
 ### 4. Text Classification  
