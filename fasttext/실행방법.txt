@@ -1,0 +1,5 @@
+실행방법 : python fasttext.py [NS sample 개수] [data]
+
+ex) python fasttext.py 20 full
+
+console_print.out과 result.txt는 윈도우 환경에서는 에디터로 봐야 잘보입니다. ex) notepad, VS Code

@@ -1,0 +1,14 @@
+실행방법:
+python classify.py [Use_bigram] [Dimension] [Epoch] [Learning_Rate]
+
+Use_bigram : True or False
+Dimension, Epoch : int
+Learning_Rate : float
+
+ex) python classify.py True 64 5 0.01
+ex) python classify.py False 100 10 0.001
+
+
+참고사항:
+제출물은 python classify.py True 64 7 0.01 입니다.
+console.out과 result.txt는 윈도우 환경에서는 에디터로 봐야합니다.

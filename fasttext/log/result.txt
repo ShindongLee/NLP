@@ -1,0 +1,83 @@
+Input Words: 
+narrow-mindedness
+department
+campfires
+knowing
+urbanize
+imperfection
+principality
+abnormal
+secondary
+ungraceful
+
+Top 5 words similar to word: narrow-mindedness
+1st : narrowness                with similarity : 0.9901
+2nd : smoothness                with similarity : 0.9816
+3rd : freshness                 with similarity : 0.9803
+4th : roundaboutness            with similarity : 0.9801
+5th : spontaneity               with similarity : 0.9799
+
+Top 5 words similar to word: department
+1st : department                with similarity : 1.0000
+2nd : departmental              with similarity : 0.9788
+3rd : departments               with similarity : 0.9652
+4th : apartment                 with similarity : 0.9531
+5th : assortment                with similarity : 0.9350
+
+Top 5 words similar to word: campfires
+1st : bushfires                 with similarity : 0.9800
+2nd : wildfires                 with similarity : 0.9716
+3rd : stormtroopers             with similarity : 0.9697
+4th : bonfires                  with similarity : 0.9695
+5th : barricades                with similarity : 0.9691
+
+Top 5 words similar to word: knowing
+1st : knowing                   with similarity : 1.0000
+2nd : remembering               with similarity : 0.9754
+3rd : forgive                   with similarity : 0.9670
+4th : betraying                 with similarity : 0.9660
+5th : wondering                 with similarity : 0.9659
+
+Top 5 words similar to word: urbanize
+1st : civilize                  with similarity : 0.9609
+2nd : assurbanipal              with similarity : 0.9591
+3rd : desegregate               with similarity : 0.9587
+4th : ameliorate                with similarity : 0.9569
+5th : aggravate                 with similarity : 0.9551
+
+Top 5 words similar to word: imperfection
+1st : imperfection              with similarity : 1.0000
+2nd : perfection                with similarity : 0.9841
+3rd : imperfections             with similarity : 0.9774
+4th : imperfect                 with similarity : 0.9761
+5th : imperfective              with similarity : 0.9734
+
+Top 5 words similar to word: principality
+1st : principality              with similarity : 1.0000
+2nd : principalities            with similarity : 0.9730
+3rd : principalis               with similarity : 0.9719
+4th : principal                 with similarity : 0.9709
+5th : principals                with similarity : 0.9635
+
+Top 5 words similar to word: abnormal
+1st : abnormal                  with similarity : 1.0000
+2nd : normal                    with similarity : 0.9768
+3rd : abnormality               with similarity : 0.9749
+4th : paranormal                with similarity : 0.9726
+5th : asymptotic                with similarity : 0.9703
+
+Top 5 words similar to word: secondary
+1st : secondary                 with similarity : 1.0000
+2nd : tertiary                  with similarity : 0.9633
+3rd : secondarily               with similarity : 0.9572
+4th : seconda                   with similarity : 0.9544
+5th : catenary                  with similarity : 0.9505
+
+Top 5 words similar to word: ungraceful
+1st : disgraceful               with similarity : 0.9887
+2nd : idolatrous                with similarity : 0.9882
+3rd : unscrupulous              with similarity : 0.9850
+4th : ungrateful                with similarity : 0.9843
+5th : graceful                  with similarity : 0.9838
+
+Time Elapsed for Validaiton 00:00:28
